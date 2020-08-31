@@ -2,7 +2,7 @@
 Social Decentralized Argumentation Models (SDAM)
 
 ### Description
-We find that argumentation in today's world is extremely inefficient and incomplete. A good starting point to solve this problem is the science around critical thinking and argumentation models. ![Image of Argument model](https://en.wikipedia.org/wiki/File:Argument_terminology_used_in_logic_(en).svg)
+We find that argumentation in today's world is extremely inefficient and incomplete. A good starting point to solve this problem is the science around critical thinking and argumentation models. ![Image of Argument model](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Argument_terminology_used_in_logic_%28en%29.svg/1200px-Argument_terminology_used_in_logic_%28en%29.svg.png)
 
 One of the so far most interesting tools to create argumentation models is the project #ArgDown (www.argdown.org). It focusses on creating argumentation models with a simple markup language based on #Markdown.
 
